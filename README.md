@@ -1,2 +1,2 @@
-Terraform modules for the VCS lecture for AWS and GCP code.
+Terraform modules VCS tests AWS/GCP.
 
